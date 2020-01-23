@@ -5,5 +5,7 @@ Dependency
 1. it++ for vector class. 
 2. GNUPLOT for plotting. 
 
-To run any file use the command
+Compilation
 g++ -o exec foo.cc -litpp
+Execution
+./exec
