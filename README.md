@@ -12,12 +12,13 @@ sudo pacman -S gnuplot
 ```
 2. Install itpp using yaourt. 
 
+3. To run the code
 > Compilation
 ```
 g++ -o exec foo.cc -litpp
 ```
 
-> Execution - 
+> Execution 
 ```
 ./exec
 ```
