@@ -5,8 +5,14 @@ Dependency
 1. it++ for vector class. 
 2. GNUPLOT for plotting. 
 
-Compilation
-g++ -o exec foo.cc -litpp
+Installation
+1. To install GNUPLOT
+sudo pacman -S gnuplot
 
-Execution
+2. Install itpp using yaourt. 
+
+Compilation
+1. g++ -o exec foo.cc -litpp
+
+2. Execution - 
 ./exec
