@@ -2,7 +2,8 @@
 My course work for 5G LDPC codes
 
 1. Dependency
-> it++ for vector class. 
+> IT++ for vector class. 
+
 > GNUPLOT for plotting. 
 
 2. Installation
